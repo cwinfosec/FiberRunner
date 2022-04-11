@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiberRunner", "FiberRunner.vcxproj", "{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Debug|x64.ActiveCfg = Debug|x64
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Debug|x64.Build.0 = Debug|x64
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Debug|x86.ActiveCfg = Debug|Win32
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Debug|x86.Build.0 = Debug|Win32
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Release|x64.ActiveCfg = Release|x64
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Release|x64.Build.0 = Release|x64
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Release|x86.ActiveCfg = Release|Win32
+		{35A6D2D9-F470-4B0C-B390-157F1AF14FEA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830F0741-889A-49D7-B207-D6D4A31F0AF0}
+	EndGlobalSection
+EndGlobal
